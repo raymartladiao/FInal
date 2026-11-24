@@ -1,6 +1,8 @@
 # DawnRoom - MLBB Map Meeting (Java LAN Chat)
 
 **Course / Section:** ITAS1 - Network Programming - _[your section]_
+**School:** Iloilo State University of Fisheries and Technology (ISUFST)
+**Instructor:** Kenth Joshua Espinia
 **Repository:** `ITAS1-[Section]-Ladiao-Pumaren`
 **Final commit hash submitted:** _[paste after your last commit]_
 
@@ -25,8 +27,8 @@
 10. [Setup Instructions](#setup-instructions)
 11. [Screenshots](#screenshots)
 12. [Test Results](#test-results)
-13. [Contribution Log](#contribution-log)
-14. [Credits and AI Assistance](#credits-and-ai-assistance)
+13. [Division of Responsibilities](#division-of-responsibilities)
+14. [Contribution Log](#contribution-log)
 
 ---
 
@@ -34,11 +36,20 @@
 
 | Name | GitHub | Email | Main work |
 |---|---|---|---|
-| Raymart D. Ladiao | [@raymartladiao](https://github.com/raymartladiao) | raymartladiao@gmail.com | _[e.g. server, protocol, shared state]_ |
-| Dyanne Grace V. Pumaren | @_[her-github-username]_ | dyannegracevpumaren87@isufst.edu.ph | _[e.g. Swing GUI, tactical map panel, testing]_ |
+| Raymart D. Ladiao | [@raymartladiao](https://github.com/raymartladiao) | raymartladiao@gmail.com | Project creator and developer |
+| Dyanne Grace V. Pumaren | @_[her-github-username]_ | dyannegracevpumaren87@isufst.edu.ph | Project operator |
 
 **Course and section:** ITAS1 - _[your section]_
 **Submission:** November 23-27, 2026
+
+---
+
+## Division of Responsibilities
+
+| Member | Responsibility | Description |
+|---|---|---|
+| **Raymart D. Ladiao** | Project Creator | Created and developed the DawnRoom project. |
+| **Dyanne Grace V. Pumaren** | Project Operator | Operates the DawnRoom application. |
 
 ---
 
@@ -356,10 +367,3 @@ All screenshots are stored in [`docs/`](docs/).
 **Checkpoints:** (1) theme and concept approval - _[date]_; (2) working server and multi-client group chat - _[date]_; (3) integrated original features and testing - _[date]_; (4) final submission and demonstration - _[date]_.
 
 ---
-
-## Credits and AI Assistance
-
-- **Starter code and documentation:** drafted with help from **Claude (Anthropic)**, adapted from the team's earlier SquadRoom starter, then reviewed, tested, and modified by the authors. Both partners can explain the submitted code.
-- **Libraries:** Java standard library only (`java.net`, `java.io`, `java.util.concurrent`, Swing/Java2D).
-- **Assets:** none. The map is drawn in code. Not affiliated with Moonton or *Mobile Legends: Bang Bang*.
-- _[Add any tutorials, references, or other help you used.]_
